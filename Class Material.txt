@@ -1,0 +1,63 @@
+1. Management Groups:-
+	- Segregation : to use boundaries.
+2. Azure compute:-
+	- Virtual Machines.
+3. VM scale sets:-
+	- scale out when resource needs to increase.
+	- scale in when resource needs are lower.
+4. Azure functions:- 
+	- called as Lambda Functions
+	- Trigger based function occured
+5. Azure app Services:-
+	- Same like Elastics Beanstalk
+6. Vnet :-
+	-VPC (AWS)
+7. Redanduncy :- having backups
+8. RTO vs RPO : time loss vs data loss 
+9. Storage Access Tiers :-
+	- Hot - apna ghar
+	- Cool -  Nani ka ghar 
+	- Acrhive - Phopo ka ghar
+
+
+3rd Lecture:-
+-
+- Defense in depth security layers :-
+- Anti viruses.
+- factors affecting costs : SLA: service level agreement
+- contracts of service using 8by5 8 hours, 5 days.
+- 
+
+
+4th- Lecture:-
+
+1. GitHub instructions 
+2. CI/CD pipelines
+3. Azure Login
+
+
+5th Lecture:-
+Intro To Terraform !
+
+Terraform cmds:-
+
+1. 
+- terraform apply
+- state list
+- terraform destroy
+- 
+
+
+https://portal.azure.com/?Microsoft_Azure_Education_correlationId=73ba656f-7fdd-4302-a4d2-ef2bb4652ec8&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=d50d9376-fc28-4471-a184-413a937e3786#create/Microsoft.VirtualMachine-ARM
+
+6th lecture :-
+Terraform :-
+	- Open source aka Infrastructure as Code.
+	-  lets you create and manage your cloud infrastructure.
+	- Can write code to create infra.
+
+Lecture:-	
+Virtual Machine - Os Image.
+
+
+
